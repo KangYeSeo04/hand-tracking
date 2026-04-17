@@ -2,6 +2,7 @@ import { useRef, useCallback } from 'react';
 import Webcam from 'react-webcam';
 import WebcamBackground from './components/camera/WebcamBackground';
 import HandCanvas from './components/camera/HandCanvas';
+import SuitScene from './components/three/SuitScene';
 import { useHandTracking } from './hooks/useHandTracking';
 import type { HandResults } from './hooks/useHandTracking';
 import { drawHandLandmarks } from './utils/drawHands';
@@ -42,6 +43,7 @@ function App() {
     <div style={{ width: '100vw', height: '100vh', overflow: 'hidden' }}>
       <WebcamBackground ref={webcamRef} />
       <HandCanvas ref={canvasRef} />
+      <SuitScene />
     </div>
   );
 }

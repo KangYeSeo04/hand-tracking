@@ -75,3 +75,5 @@ export default defineConfig([
 =======
 # hand-tracking
 >>>>>>> 004d44c19a80eebbae5a0d8b492636c932130cbb
+
+"Spider-Man - Hybrid Suit" (https://skfb.ly/ox7nW) by Jako is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
