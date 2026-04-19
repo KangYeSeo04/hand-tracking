@@ -77,3 +77,4 @@ export default defineConfig([
 >>>>>>> 004d44c19a80eebbae5a0d8b492636c932130cbb
 
 "Spider-Man - Hybrid Suit" (https://skfb.ly/ox7nW) by Jako is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Spiderman Far From Suit" (https://skfb.ly/o8JTo) by CGI DUDE is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
